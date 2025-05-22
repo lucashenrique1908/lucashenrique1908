@@ -24,7 +24,7 @@
 ---
 
 ## 📫 How to reach me
-- [Linkedin].www.linkedin.com/in/devlucas2025
+- www.linkedin.com/in/devlucas2025
 - [GitHub](https://github.com/lucashenrique1908)
 - 📧 Email: contato.emphenrique@gmail.com
 
