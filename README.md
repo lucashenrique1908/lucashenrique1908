@@ -1,13 +1,13 @@
-# 👋 Hello, I'm Lucas Souza!
+#  Hello, I'm Lucas Souza!
 
-🎓 Computer Science student at [University of the People](https://www.uopeople.edu/).  
-💻 Frontend Developer passionate about technology and innovation.  
-🚀 Currently focused on improving my skills in HTML5, CSS3, JavaScript and React.js.  
-📚 Also exploring Backend technologies like Node.js and MongoDB to become a Fullstack Developer.  
+ Computer Science student at [University of the People](https://www.uopeople.edu/).  
+ Frontend Developer passionate about technology and innovation.  
+ Currently focused on improving my skills in HTML5, CSS3, JavaScript and React.js.  
+ Also exploring Backend technologies like Node.js and MongoDB to become a Fullstack Developer.  
 
 ---
 
-## 🔥 Skills
+# Skills
 - Frontend: HTML5 | CSS3 | JavaScript (ES6+) | React.js (learning)
 - Tools: Git | GitHub | Visual Studio Code
 - Concepts: REST APIs | Responsive Web Design | Programming Logic
@@ -15,7 +15,7 @@
 
 ---
 
-## 📈 Goals for 2025
+# Goals for 2025
 - Complete more personal projects and share them here on GitHub.
 - Deepen my knowledge in Fullstack Development.
 - Start contributing to Open Source projects.
