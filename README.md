@@ -26,7 +26,7 @@ I'm a junior frontend developer focused on building responsive, accessible, and 
 
 🔹 **Personal Portfolio**  
 🌐 Live:https://lucashenrique1908.github.io/Repository/
-📂 Code: https://github.com/lucashenrique1908/lucashenrique1908.github.io  
+📂 Code: https:https://github.com/lucashenrique1908/Repository
 🛠 HTML, CSS, JavaScript, React
 
 ---
