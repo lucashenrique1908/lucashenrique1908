@@ -1,35 +1,46 @@
-Lucas Souza
-Computer Science Student – University of the People
-Junior Frontend Developer continuously learning and applying skills in real projects.
+# 👋 Hi, I'm Lucas Souza
 
-Technical Skills
-Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, TypeScript (learning)
+🚀 Junior Front-End Developer | React • JavaScript • HTML • CSS  
+🎓 Computer Science Student at University of the People
 
-Concepts: Responsive Design, REST APIs, Component-Based Architecture
+I'm a junior frontend developer focused on building responsive, accessible, and user-friendly web applications using modern frontend technologies.
 
-Languages: Portuguese (native), English (intermediate-advanced B2/C1)
+---
 
-Education and Courses
-Complete Web Development Course – Matheus Battisti (Udemy)
-HTML, CSS, JavaScript, React.js, and basic TypeScript
+## 🛠 Tech Stack
 
-Frontend Certification – FreeCodeCamp
-Hands-on projects and modern frontend practices
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- TypeScript (currently learning)
 
-Goals for 2025
-Build and share projects using React and TypeScript
+**Concepts & Tools**
+- Responsive Design
+- REST APIs
+- Component-Based Architecture
+- Git & GitHub
 
-Contribute to Open Source projects to gain practical experience
+---
 
-Seek internships, freelance opportunities, or junior roles to grow professionally
+## 📌 Featured Projects
 
-Establish a strong career as a frontend developer
+🔹 **Personal Portfolio**  
+🌐 Live:https://lucashenrique1908.github.io/Repository/
+📂 Code: https://github.com/lucashenrique1908/lucashenrique1908.github.io  
+🛠 HTML, CSS, JavaScript, React
 
-Contact
-- https://www.linkedin.com/in/lucassouzadevfullstack/
+---
 
-Phone 
-- +351 929 217 362
+## 🎯 Currently
 
+- Improving my skills in React and TypeScript
+- Building real-world frontend projects
+- Looking for my **first professional opportunity** as a Junior Front-End Developer
 
-Email: contato.emphenrique@gmail.com
+---
+
+## 📫 Let's Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucassouzadevfullstack/  
+📧 Email: contato.emphenrique@gmail.com
+
