@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Lucas Souza
+#  Hi, I'm Lucas Souza
 
-🚀 Junior Front-End Developer | React • JavaScript • HTML • CSS  
-🎓 Computer Science Student at University of the People
+ Junior Front-End Developer | React • JavaScript • HTML • CSS  
 
 I'm a junior frontend developer focused on building responsive, accessible, and user-friendly web applications using modern frontend technologies.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend**
 - HTML5, CSS3, JavaScript (ES6+)
@@ -22,16 +21,16 @@ I'm a junior frontend developer focused on building responsive, accessible, and 
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-🔹 **Personal Portfolio**  
-🌐 Live:https://lucashenrique1908.github.io/Repository/
-📂 Code: https:https://github.com/lucashenrique1908/Repository
-🛠 HTML, CSS, JavaScript, React
+  **Personal Portfolio**  
+  Live:https://lucashenrique1908.github.io/myPortf-lio/
+  Code: https://github.com/lucashenrique1908/myPortf-lio
+  HTML, CSS, JavaScript, React
 
 ---
 
-## 🎯 Currently
+##  Currently
 
 - Improving my skills in React and TypeScript
 - Building real-world frontend projects
@@ -39,7 +38,7 @@ I'm a junior frontend developer focused on building responsive, accessible, and 
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/lucassouzadevfullstack/  
 📧 Email: contato.emphenrique@gmail.com
