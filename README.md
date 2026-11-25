@@ -16,6 +16,11 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/lucashenrique1908">
     <img src="https://img.shields.io/badge/GitHub-lucashenrique1908-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/lucassouzadeveloper/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  
 
 </p>
 
