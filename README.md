@@ -13,15 +13,13 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/lucashenrique1908">
+  <a href="https://github.com/lucashenrique1908" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-lucashenrique1908-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/lucassouzadeveloper/">
+
+  <a href="https://www.linkedin.com/in/lucassouzadeveloper/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  
-
 </p>
 
 ---
